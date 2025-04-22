@@ -1,0 +1,31 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+header {
+  background-color: #e8f5e9;
+  padding: 2em;
+  text-align: center;
+}
+.logo {
+  font-size: 2em;
+  font-weight: bold;
+  color: #2e7d32;
+}
+.tagline {
+  font-size: 1em;
+  color: #4caf50;
+}
+.intro {
+  padding: 2em;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #c8e6c9;
+}
